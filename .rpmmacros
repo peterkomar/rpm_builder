@@ -1,0 +1,11 @@
+%packager       Peter Komar <udldevel@gmail.com>
+
+%_topdir        /home/peter/rpmbuild
+%_tmppath       /var/tmp
+
+%_rpmtopdir     %{_topdir}
+%_builddir      %{_rpmtopdir}/BUILD
+%_rpmdir        %{_rpmtopdir}/RPMS
+%_sourcedir     %{_rpmtopdir}/SOURCES
+%_specdir       %{_rpmtopdir}/SPECS
+%_srcrpmdir     %{_rpmtopdir}/SRPMS
